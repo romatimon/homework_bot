@@ -42,3 +42,5 @@ pip install -r requirements.txt
 ```
 python homework.py
 ```
+
+Автор [romatimon](https://github.com/romatimon)
